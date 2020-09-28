@@ -159,6 +159,7 @@
   box-shadow: 4px 4px 0 #89c589;
   border: 1px solid lightgray;
   box-sizing: content-box;
+  color: transparent;
 }
 
 .item img {
